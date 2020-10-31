@@ -6,3 +6,6 @@ This repository will contain kernels I uploaded on Kaggle.
 
 2. Red wine Quality Prediction using Regression
   https://www.kaggle.com/eagle247/red-wine-regression
+
+3. Disaster Tweet Classification_NLP
+  https://www.kaggle.com/eagle247/nlp-classification-disaster-tweets
